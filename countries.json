@@ -1,0 +1,1996 @@
+﻿{
+    "countries": [
+        {
+            "COUNTRY": "Afghanistan",
+            "NATIONALITY": "Afghan",
+            "ISO_2 CODE": "AF",
+            "ISO_3_CODE": "AFG",
+            "PHONE_KEY": "93",
+            "NUM_CODE": "4"
+        },
+        {
+            "COUNTRY": "Åland Islands",
+            "NATIONALITY": "Åland Island",
+            "ISO_2 CODE": "AX",
+            "ISO_3_CODE": "ALA",
+            "PHONE_KEY": "358 18",
+            "NUM_CODE": "248"
+        },
+        {
+            "COUNTRY": "Albania",
+            "NATIONALITY": "Albanian",
+            "ISO_2 CODE": "AL",
+            "ISO_3_CODE": "ALB",
+            "PHONE_KEY": "355",
+            "NUM_CODE": "8"
+        },
+        {
+            "COUNTRY": "Algeria",
+            "NATIONALITY": "Algerian",
+            "ISO_2 CODE": "DZ",
+            "ISO_3_CODE": "DZA",
+            "PHONE_KEY": "213",
+            "NUM_CODE": "12"
+        },
+        {
+            "COUNTRY": "American Samoa",
+            "NATIONALITY": "American Samoan",
+            "ISO_2 CODE": "AS",
+            "ISO_3_CODE": "ASM",
+            "PHONE_KEY": "1 684",
+            "NUM_CODE": "16"
+        },
+        {
+            "COUNTRY": "Andorra",
+            "NATIONALITY": "Andorran",
+            "ISO_2 CODE": "AD",
+            "ISO_3_CODE": "AND",
+            "PHONE_KEY": "376",
+            "NUM_CODE": "20"
+        },
+        {
+            "COUNTRY": "Angola",
+            "NATIONALITY": "Angolan",
+            "ISO_2 CODE": "AO",
+            "ISO_3_CODE": "AGO",
+            "PHONE_KEY": "244",
+            "NUM_CODE": "24"
+        },
+        {
+            "COUNTRY": "Anguilla",
+            "NATIONALITY": "Anguillan",
+            "ISO_2 CODE": "AI",
+            "ISO_3_CODE": "AIA",
+            "PHONE_KEY": "1 264",
+            "NUM_CODE": "660"
+        },
+        {
+            "COUNTRY": "Antarctica",
+            "NATIONALITY": "Antarctic",
+            "ISO_2 CODE": "AQ",
+            "ISO_3_CODE": "ATA",
+            "PHONE_KEY": "6721",
+            "NUM_CODE": "10"
+        },
+        {
+            "COUNTRY": "Antigua and Barbuda",
+            "NATIONALITY": "Antiguan or Barbudan",
+            "ISO_2 CODE": "AG",
+            "ISO_3_CODE": "ATG",
+            "PHONE_KEY": "1 268",
+            "NUM_CODE": "28"
+        },
+        {
+            "COUNTRY": "Argentina",
+            "NATIONALITY": "Argentine",
+            "ISO_2 CODE": "AR",
+            "ISO_3_CODE": "ARG",
+            "PHONE_KEY": "54",
+            "NUM_CODE": "32"
+        },
+        {
+            "COUNTRY": "Armenia",
+            "NATIONALITY": "Armenian",
+            "ISO_2 CODE": "AM",
+            "ISO_3_CODE": "ARM",
+            "PHONE_KEY": "374",
+            "NUM_CODE": "51"
+        },
+        {
+            "COUNTRY": "Aruba",
+            "NATIONALITY": "Aruban",
+            "ISO_2 CODE": "AW",
+            "ISO_3_CODE": "ABW",
+            "PHONE_KEY": "297",
+            "NUM_CODE": "533"
+        },
+        {
+            "COUNTRY": "Australia",
+            "NATIONALITY": "Australian",
+            "ISO_2 CODE": "AU",
+            "ISO_3_CODE": "AUS",
+            "PHONE_KEY": "61",
+            "NUM_CODE": "36"
+        },
+        {
+            "COUNTRY": "Austria",
+            "NATIONALITY": "Austrian",
+            "ISO_2 CODE": "AT",
+            "ISO_3_CODE": "AUT",
+            "PHONE_KEY": "43",
+            "NUM_CODE": "40"
+        },
+        {
+            "COUNTRY": "Azerbaijan",
+            "NATIONALITY": "Azerbaijani, Azeri",
+            "ISO_2 CODE": "AZ",
+            "ISO_3_CODE": "AZE",
+            "PHONE_KEY": "994",
+            "NUM_CODE": "31"
+        },
+        {
+            "COUNTRY": "Bahamas",
+            "NATIONALITY": "Bahamian",
+            "ISO_2 CODE": "BS",
+            "ISO_3_CODE": "BHS",
+            "PHONE_KEY": "1 242",
+            "NUM_CODE": "44"
+        },
+        {
+            "COUNTRY": "Bahrain",
+            "NATIONALITY": "Bahraini",
+            "ISO_2 CODE": "BH",
+            "ISO_3_CODE": "BHR",
+            "PHONE_KEY": "973",
+            "NUM_CODE": "48"
+        },
+        {
+            "COUNTRY": "Bangladesh",
+            "NATIONALITY": "Bangladeshi",
+            "ISO_2 CODE": "BD",
+            "ISO_3_CODE": "BGD",
+            "PHONE_KEY": "880",
+            "NUM_CODE": "50"
+        },
+        {
+            "COUNTRY": "Barbados",
+            "NATIONALITY": "Barbadian",
+            "ISO_2 CODE": "BB",
+            "ISO_3_CODE": "BRB",
+            "PHONE_KEY": "1 246",
+            "NUM_CODE": "52"
+        },
+        {
+            "COUNTRY": "Belarus",
+            "NATIONALITY": "Belarusian",
+            "ISO_2 CODE": "BY",
+            "ISO_3_CODE": "BLR",
+            "PHONE_KEY": "375",
+            "NUM_CODE": "112"
+        },
+        {
+            "COUNTRY": "Belgium",
+            "NATIONALITY": "Belgian",
+            "ISO_2 CODE": "BE",
+            "ISO_3_CODE": "BEL",
+            "PHONE_KEY": "32",
+            "NUM_CODE": "56"
+        },
+        {
+            "COUNTRY": "Belize",
+            "NATIONALITY": "Belizean",
+            "ISO_2 CODE": "BZ",
+            "ISO_3_CODE": "BLZ",
+            "PHONE_KEY": "501",
+            "NUM_CODE": "84"
+        },
+        {
+            "COUNTRY": "Benin",
+            "NATIONALITY": "Beninese, Beninois",
+            "ISO_2 CODE": "BJ",
+            "ISO_3_CODE": "BEN",
+            "PHONE_KEY": "229",
+            "NUM_CODE": "204"
+        },
+        {
+            "COUNTRY": "Bermuda",
+            "NATIONALITY": "Bermudian, Bermudan",
+            "ISO_2 CODE": "BM",
+            "ISO_3_CODE": "BMU",
+            "PHONE_KEY": "1 441",
+            "NUM_CODE": "60"
+        },
+        {
+            "COUNTRY": "Bhutan",
+            "NATIONALITY": "Bhutanese",
+            "ISO_2 CODE": "BT",
+            "ISO_3_CODE": "BTN",
+            "PHONE_KEY": "975",
+            "NUM_CODE": "64"
+        },
+        {
+            "COUNTRY": "Bolivia (Plurinational State of)",
+            "NATIONALITY": "Bolivian",
+            "ISO_2 CODE": "BO",
+            "ISO_3_CODE": "BOL",
+            "PHONE_KEY": "591",
+            "NUM_CODE": "68"
+        },
+        {
+            "COUNTRY": "Bonaire, Sint Eustatius and Saba",
+            "NATIONALITY": "Bonaire",
+            "ISO_2 CODE": "BQ",
+            "ISO_3_CODE": "BES",
+            "PHONE_KEY": "5997",
+            "NUM_CODE": "535"
+        },
+        {
+            "COUNTRY": "Bosnia and Herzegovina",
+            "NATIONALITY": "Bosnian or Herzegovinian",
+            "ISO_2 CODE": "BA",
+            "ISO_3_CODE": "BIH",
+            "PHONE_KEY": "387",
+            "NUM_CODE": "70"
+        },
+        {
+            "COUNTRY": "Botswana",
+            "NATIONALITY": "Motswana, Botswanan",
+            "ISO_2 CODE": "BW",
+            "ISO_3_CODE": "BWA",
+            "PHONE_KEY": "267",
+            "NUM_CODE": "72"
+        },
+        {
+            "COUNTRY": "Bouvet Island",
+            "NATIONALITY": "Bouvet Island",
+            "ISO_2 CODE": "BV",
+            "ISO_3_CODE": "BVT",
+            "PHONE_KEY": "47",
+            "NUM_CODE": "74"
+        },
+        {
+            "COUNTRY": "Brazil",
+            "NATIONALITY": "Brazilian",
+            "ISO_2 CODE": "BR",
+            "ISO_3_CODE": "BRA",
+            "PHONE_KEY": "55",
+            "NUM_CODE": "76"
+        },
+        {
+            "COUNTRY": "British Indian Ocean Territory",
+            "NATIONALITY": "BIOT",
+            "ISO_2 CODE": "IO",
+            "ISO_3_CODE": "IOT",
+            "PHONE_KEY": "246",
+            "NUM_CODE": "86"
+        },
+        {
+            "COUNTRY": "Brunei Darussalam",
+            "NATIONALITY": "Bruneian",
+            "ISO_2 CODE": "BN",
+            "ISO_3_CODE": "BRN",
+            "PHONE_KEY": "673",
+            "NUM_CODE": "96"
+        },
+        {
+            "COUNTRY": "Bulgaria",
+            "NATIONALITY": "Bulgarian",
+            "ISO_2 CODE": "BG",
+            "ISO_3_CODE": "BGR",
+            "PHONE_KEY": "359",
+            "NUM_CODE": "100"
+        },
+        {
+            "COUNTRY": "Burkina Faso",
+            "NATIONALITY": "Burkinabé",
+            "ISO_2 CODE": "BF",
+            "ISO_3_CODE": "BFA",
+            "PHONE_KEY": "226",
+            "NUM_CODE": "854"
+        },
+        {
+            "COUNTRY": "Burundi",
+            "NATIONALITY": "Burundian",
+            "ISO_2 CODE": "BI",
+            "ISO_3_CODE": "BDI",
+            "PHONE_KEY": "257",
+            "NUM_CODE": "108"
+        },
+        {
+            "COUNTRY": "Cabo Verde",
+            "NATIONALITY": "Cabo Verdean",
+            "ISO_2 CODE": "CV",
+            "ISO_3_CODE": "CPV",
+            "PHONE_KEY": "238",
+            "NUM_CODE": "132"
+        },
+        {
+            "COUNTRY": "Cambodia",
+            "NATIONALITY": "Cambodian",
+            "ISO_2 CODE": "KH",
+            "ISO_3_CODE": "KHM",
+            "PHONE_KEY": "855",
+            "NUM_CODE": "116"
+        },
+        {
+            "COUNTRY": "Cameroon",
+            "NATIONALITY": "Cameroonian",
+            "ISO_2 CODE": "CM",
+            "ISO_3_CODE": "CMR",
+            "PHONE_KEY": "237",
+            "NUM_CODE": "120"
+        },
+        {
+            "COUNTRY": "Canada",
+            "NATIONALITY": "Canadian",
+            "ISO_2 CODE": "CA",
+            "ISO_3_CODE": "CAN",
+            "PHONE_KEY": "1",
+            "NUM_CODE": "124"
+        },
+        {
+            "COUNTRY": "Cayman Islands",
+            "NATIONALITY": "Caymanian",
+            "ISO_2 CODE": "KY",
+            "ISO_3_CODE": "CYM",
+            "PHONE_KEY": "1 345",
+            "NUM_CODE": "136"
+        },
+        {
+            "COUNTRY": "Central African Republic",
+            "NATIONALITY": "Central African",
+            "ISO_2 CODE": "CF",
+            "ISO_3_CODE": "CAF",
+            "PHONE_KEY": "236",
+            "NUM_CODE": "140"
+        },
+        {
+            "COUNTRY": "Chad",
+            "NATIONALITY": "Chadian",
+            "ISO_2 CODE": "TD",
+            "ISO_3_CODE": "TCD",
+            "PHONE_KEY": "235",
+            "NUM_CODE": "148"
+        },
+        {
+            "COUNTRY": "Chile",
+            "NATIONALITY": "Chilean",
+            "ISO_2 CODE": "CL",
+            "ISO_3_CODE": "CHL",
+            "PHONE_KEY": "56",
+            "NUM_CODE": "152"
+        },
+        {
+            "COUNTRY": "China",
+            "NATIONALITY": "Chinese",
+            "ISO_2 CODE": "CN",
+            "ISO_3_CODE": "CHN",
+            "PHONE_KEY": "86",
+            "NUM_CODE": "156"
+        },
+        {
+            "COUNTRY": "Christmas Island",
+            "NATIONALITY": "Christmas Island",
+            "ISO_2 CODE": "CX",
+            "ISO_3_CODE": "CXR",
+            "PHONE_KEY": "61",
+            "NUM_CODE": "162"
+        },
+        {
+            "COUNTRY": "Cocos (Keeling) Islands",
+            "NATIONALITY": "Cocos Island",
+            "ISO_2 CODE": "CC",
+            "ISO_3_CODE": "CCK",
+            "PHONE_KEY": "61",
+            "NUM_CODE": "166"
+        },
+        {
+            "COUNTRY": "Colombia",
+            "NATIONALITY": "Colombian",
+            "ISO_2 CODE": "CO",
+            "ISO_3_CODE": "COL",
+            "PHONE_KEY": "57",
+            "NUM_CODE": "170"
+        },
+        {
+            "COUNTRY": "Comoros",
+            "NATIONALITY": "Comoran, Comorian",
+            "ISO_2 CODE": "KM",
+            "ISO_3_CODE": "COM",
+            "PHONE_KEY": "269",
+            "NUM_CODE": "174"
+        },
+        {
+            "COUNTRY": "Congo (Republic of the)",
+            "NATIONALITY": "Congolese",
+            "ISO_2 CODE": "CG",
+            "ISO_3_CODE": "COG",
+            "PHONE_KEY": "243",
+            "NUM_CODE": "178"
+        },
+        {
+            "COUNTRY": "Congo (Democratic Republic of the)",
+            "NATIONALITY": "Congolese",
+            "ISO_2 CODE": "CD",
+            "ISO_3_CODE": "COD",
+            "PHONE_KEY": "242",
+            "NUM_CODE": "180"
+        },
+        {
+            "COUNTRY": "Cook Islands",
+            "NATIONALITY": "Cook Island",
+            "ISO_2 CODE": "CK",
+            "ISO_3_CODE": "COK",
+            "PHONE_KEY": "682",
+            "NUM_CODE": "184"
+        },
+        {
+            "COUNTRY": "Costa Rica",
+            "NATIONALITY": "Costa Rican",
+            "ISO_2 CODE": "CR",
+            "ISO_3_CODE": "CRI",
+            "PHONE_KEY": "506",
+            "NUM_CODE": "188"
+        },
+        {
+            "COUNTRY": "Côte d'Ivoire",
+            "NATIONALITY": "Ivorian",
+            "ISO_2 CODE": "CI",
+            "ISO_3_CODE": "CIV",
+            "PHONE_KEY": "225",
+            "NUM_CODE": "384"
+        },
+        {
+            "COUNTRY": "Croatia",
+            "NATIONALITY": "Croatian",
+            "ISO_2 CODE": "HR",
+            "ISO_3_CODE": "HRV",
+            "PHONE_KEY": "385",
+            "NUM_CODE": "191"
+        },
+        {
+            "COUNTRY": "Cuba",
+            "NATIONALITY": "Cuban",
+            "ISO_2 CODE": "CU",
+            "ISO_3_CODE": "CUB",
+            "PHONE_KEY": "53",
+            "NUM_CODE": "192"
+        },
+        {
+            "COUNTRY": "Curaçao",
+            "NATIONALITY": "Curaçaoan",
+            "ISO_2 CODE": "CW",
+            "ISO_3_CODE": "CUW",
+            "PHONE_KEY": "599",
+            "NUM_CODE": "531"
+        },
+        {
+            "COUNTRY": "Cyprus",
+            "NATIONALITY": "Cypriot",
+            "ISO_2 CODE": "CY",
+            "ISO_3_CODE": "CYP",
+            "PHONE_KEY": "357",
+            "NUM_CODE": "196"
+        },
+        {
+            "COUNTRY": "Czech Republic",
+            "NATIONALITY": "Czech",
+            "ISO_2 CODE": "CZ",
+            "ISO_3_CODE": "CZE",
+            "PHONE_KEY": "420",
+            "NUM_CODE": "203"
+        },
+        {
+            "COUNTRY": "Denmark",
+            "NATIONALITY": "Danish",
+            "ISO_2 CODE": "DK",
+            "ISO_3_CODE": "DNK",
+            "PHONE_KEY": "45",
+            "NUM_CODE": "208"
+        },
+        {
+            "COUNTRY": "Djibouti",
+            "NATIONALITY": "Djiboutian",
+            "ISO_2 CODE": "DJ",
+            "ISO_3_CODE": "DJI",
+            "PHONE_KEY": "253",
+            "NUM_CODE": "262"
+        },
+        {
+            "COUNTRY": "Dominica",
+            "NATIONALITY": "Dominican",
+            "ISO_2 CODE": "DM",
+            "ISO_3_CODE": "DMA",
+            "PHONE_KEY": "1 767",
+            "NUM_CODE": "212"
+        },
+        {
+            "COUNTRY": "Dominican Republic",
+            "NATIONALITY": "Dominican",
+            "ISO_2 CODE": "DO",
+            "ISO_3_CODE": "DOM",
+            "PHONE_KEY": "1 809/829/ 849",
+            "NUM_CODE": "214"
+        },
+        {
+            "COUNTRY": "Ecuador",
+            "NATIONALITY": "Ecuadorian",
+            "ISO_2 CODE": "EC",
+            "ISO_3_CODE": "ECU",
+            "PHONE_KEY": "593",
+            "NUM_CODE": "218"
+        },
+        {
+            "COUNTRY": "Egypt",
+            "NATIONALITY": "Egyptian",
+            "ISO_2 CODE": "EG",
+            "ISO_3_CODE": "EGY",
+            "PHONE_KEY": "20",
+            "NUM_CODE": "818"
+        },
+        {
+            "COUNTRY": "El Salvador",
+            "NATIONALITY": "Salvadoran",
+            "ISO_2 CODE": "SV",
+            "ISO_3_CODE": "SLV",
+            "PHONE_KEY": "503",
+            "NUM_CODE": "222"
+        },
+        {
+            "COUNTRY": "Equatorial Guinea",
+            "NATIONALITY": "Equatorial Guinean, Equatoguinean",
+            "ISO_2 CODE": "GQ",
+            "ISO_3_CODE": "GNQ",
+            "PHONE_KEY": "240",
+            "NUM_CODE": "226"
+        },
+        {
+            "COUNTRY": "Eritrea",
+            "NATIONALITY": "Eritrean",
+            "ISO_2 CODE": "ER",
+            "ISO_3_CODE": "ERI",
+            "PHONE_KEY": "291",
+            "NUM_CODE": "232"
+        },
+        {
+            "COUNTRY": "Estonia",
+            "NATIONALITY": "Estonian",
+            "ISO_2 CODE": "EE",
+            "ISO_3_CODE": "EST",
+            "PHONE_KEY": "372",
+            "NUM_CODE": "233"
+        },
+        {
+            "COUNTRY": "Ethiopia",
+            "NATIONALITY": "Ethiopian",
+            "ISO_2 CODE": "ET",
+            "ISO_3_CODE": "ETH",
+            "PHONE_KEY": "251",
+            "NUM_CODE": "231"
+        },
+        {
+            "COUNTRY": "Falkland Islands (Malvinas)",
+            "NATIONALITY": "Falkland Island",
+            "ISO_2 CODE": "FK",
+            "ISO_3_CODE": "FLK",
+            "PHONE_KEY": "500",
+            "NUM_CODE": "238"
+        },
+        {
+            "COUNTRY": "Faroe Islands",
+            "NATIONALITY": "Faroese",
+            "ISO_2 CODE": "FO",
+            "ISO_3_CODE": "FRO",
+            "PHONE_KEY": "298",
+            "NUM_CODE": "234"
+        },
+        {
+            "COUNTRY": "Fiji",
+            "NATIONALITY": "Fijian",
+            "ISO_2 CODE": "FJ",
+            "ISO_3_CODE": "FJI",
+            "PHONE_KEY": "679",
+            "NUM_CODE": "242"
+        },
+        {
+            "COUNTRY": "Finland",
+            "NATIONALITY": "Finnish",
+            "ISO_2 CODE": "FI",
+            "ISO_3_CODE": "FIN",
+            "PHONE_KEY": "358",
+            "NUM_CODE": "246"
+        },
+        {
+            "COUNTRY": "France",
+            "NATIONALITY": "French",
+            "ISO_2 CODE": "FR",
+            "ISO_3_CODE": "FRA",
+            "PHONE_KEY": "33",
+            "NUM_CODE": "250"
+        },
+        {
+            "COUNTRY": "French Guiana",
+            "NATIONALITY": "French Guianese",
+            "ISO_2 CODE": "GF",
+            "ISO_3_CODE": "GUF",
+            "PHONE_KEY": "594",
+            "NUM_CODE": "254"
+        },
+        {
+            "COUNTRY": "French Polynesia",
+            "NATIONALITY": "French Polynesian",
+            "ISO_2 CODE": "PF",
+            "ISO_3_CODE": "PYF",
+            "PHONE_KEY": "689",
+            "NUM_CODE": "258"
+        },
+        {
+            "COUNTRY": "French Southern Territories",
+            "NATIONALITY": "French Southern Territories",
+            "ISO_2 CODE": "TF",
+            "ISO_3_CODE": "ATF",
+            "PHONE_KEY": "262",
+            "NUM_CODE": "260"
+        },
+        {
+            "COUNTRY": "Gabon",
+            "NATIONALITY": "Gabonese",
+            "ISO_2 CODE": "GA",
+            "ISO_3_CODE": "GAB",
+            "PHONE_KEY": "241",
+            "NUM_CODE": "266"
+        },
+        {
+            "COUNTRY": "Gambia",
+            "NATIONALITY": "Gambian",
+            "ISO_2 CODE": "GM",
+            "ISO_3_CODE": "GMB",
+            "PHONE_KEY": "220",
+            "NUM_CODE": "270"
+        },
+        {
+            "COUNTRY": "Georgia",
+            "NATIONALITY": "Georgian",
+            "ISO_2 CODE": "GE",
+            "ISO_3_CODE": "GEO",
+            "PHONE_KEY": "995",
+            "NUM_CODE": "268"
+        },
+        {
+            "COUNTRY": "Germany",
+            "NATIONALITY": "German",
+            "ISO_2 CODE": "DE",
+            "ISO_3_CODE": "DEU",
+            "PHONE_KEY": "49",
+            "NUM_CODE": "276"
+        },
+        {
+            "COUNTRY": "Ghana",
+            "NATIONALITY": "Ghanaian",
+            "ISO_2 CODE": "GH",
+            "ISO_3_CODE": "GHA",
+            "PHONE_KEY": "233",
+            "NUM_CODE": "288"
+        },
+        {
+            "COUNTRY": "Gibraltar",
+            "NATIONALITY": "Gibraltar",
+            "ISO_2 CODE": "GI",
+            "ISO_3_CODE": "GIB",
+            "PHONE_KEY": "350",
+            "NUM_CODE": "292"
+        },
+        {
+            "COUNTRY": "Greece",
+            "NATIONALITY": "Greek, Hellenic",
+            "ISO_2 CODE": "GR",
+            "ISO_3_CODE": "GRC",
+            "PHONE_KEY": "30",
+            "NUM_CODE": "300"
+        },
+        {
+            "COUNTRY": "Greenland",
+            "NATIONALITY": "Greenlandic",
+            "ISO_2 CODE": "GL",
+            "ISO_3_CODE": "GRL",
+            "PHONE_KEY": "299",
+            "NUM_CODE": "304"
+        },
+        {
+            "COUNTRY": "Grenada",
+            "NATIONALITY": "Grenadian",
+            "ISO_2 CODE": "GD",
+            "ISO_3_CODE": "GRD",
+            "PHONE_KEY": "1 473",
+            "NUM_CODE": "308"
+        },
+        {
+            "COUNTRY": "Guadeloupe",
+            "NATIONALITY": "Guadeloupe",
+            "ISO_2 CODE": "GP",
+            "ISO_3_CODE": "GLP",
+            "PHONE_KEY": "590",
+            "NUM_CODE": "312"
+        },
+        {
+            "COUNTRY": "Guam",
+            "NATIONALITY": "Guamanian, Guambat",
+            "ISO_2 CODE": "GU",
+            "ISO_3_CODE": "GUM",
+            "PHONE_KEY": "1 671",
+            "NUM_CODE": "316"
+        },
+        {
+            "COUNTRY": "Guatemala",
+            "NATIONALITY": "Guatemalan",
+            "ISO_2 CODE": "GT",
+            "ISO_3_CODE": "GTM",
+            "PHONE_KEY": "502",
+            "NUM_CODE": "320"
+        },
+        {
+            "COUNTRY": "Guernsey",
+            "NATIONALITY": "Channel Island",
+            "ISO_2 CODE": "GG",
+            "ISO_3_CODE": "GGY",
+            "PHONE_KEY": "44",
+            "NUM_CODE": "831"
+        },
+        {
+            "COUNTRY": "Guinea",
+            "NATIONALITY": "Guinean",
+            "ISO_2 CODE": "GN",
+            "ISO_3_CODE": "GIN",
+            "PHONE_KEY": "224",
+            "NUM_CODE": "324"
+        },
+        {
+            "COUNTRY": "Guinea-Bissau",
+            "NATIONALITY": "Bissau-Guinean",
+            "ISO_2 CODE": "GW",
+            "ISO_3_CODE": "GNB",
+            "PHONE_KEY": "245",
+            "NUM_CODE": "624"
+        },
+        {
+            "COUNTRY": "Guyana",
+            "NATIONALITY": "Guyanese",
+            "ISO_2 CODE": "GY",
+            "ISO_3_CODE": "GUY",
+            "PHONE_KEY": "592",
+            "NUM_CODE": "328"
+        },
+        {
+            "COUNTRY": "Haiti",
+            "NATIONALITY": "Haitian",
+            "ISO_2 CODE": "HT",
+            "ISO_3_CODE": "HTI",
+            "PHONE_KEY": "509",
+            "NUM_CODE": "332"
+        },
+        {
+            "COUNTRY": "Heard Island and McDonald Islands",
+            "NATIONALITY": "Heard Island or McDonald Islands",
+            "ISO_2 CODE": "HM",
+            "ISO_3_CODE": "HMD",
+            "PHONE_KEY": "1 672",
+            "NUM_CODE": "334"
+        },
+        {
+            "COUNTRY": "Vatican City State",
+            "NATIONALITY": "Vatican",
+            "ISO_2 CODE": "VA",
+            "ISO_3_CODE": "VAT",
+            "PHONE_KEY": "379",
+            "NUM_CODE": "336"
+        },
+        {
+            "COUNTRY": "Honduras",
+            "NATIONALITY": "Honduran",
+            "ISO_2 CODE": "HN",
+            "ISO_3_CODE": "HND",
+            "PHONE_KEY": "504",
+            "NUM_CODE": "340"
+        },
+        {
+            "COUNTRY": "Hong Kong",
+            "NATIONALITY": "Hong Kong, Hong Kongese",
+            "ISO_2 CODE": "HK",
+            "ISO_3_CODE": "HKG",
+            "PHONE_KEY": "852",
+            "NUM_CODE": "344"
+        },
+        {
+            "COUNTRY": "Hungary",
+            "NATIONALITY": "Hungarian, Magyar",
+            "ISO_2 CODE": "HU",
+            "ISO_3_CODE": "HUN",
+            "PHONE_KEY": "36",
+            "NUM_CODE": "348"
+        },
+        {
+            "COUNTRY": "Iceland",
+            "NATIONALITY": "Icelandic",
+            "ISO_2 CODE": "IS",
+            "ISO_3_CODE": "ISL",
+            "PHONE_KEY": "354",
+            "NUM_CODE": "352"
+        },
+        {
+            "COUNTRY": "India",
+            "NATIONALITY": "Indian",
+            "ISO_2 CODE": "IN",
+            "ISO_3_CODE": "IND",
+            "PHONE_KEY": "91",
+            "NUM_CODE": "356"
+        },
+        {
+            "COUNTRY": "Indonesia",
+            "NATIONALITY": "Indonesian",
+            "ISO_2 CODE": "ID",
+            "ISO_3_CODE": "IDN",
+            "PHONE_KEY": "62",
+            "NUM_CODE": "360"
+        },
+        {
+            "COUNTRY": "Iran",
+            "NATIONALITY": "Iranian, Persian",
+            "ISO_2 CODE": "IR",
+            "ISO_3_CODE": "IRN",
+            "PHONE_KEY": "98",
+            "NUM_CODE": "364"
+        },
+        {
+            "COUNTRY": "Iraq",
+            "NATIONALITY": "Iraqi",
+            "ISO_2 CODE": "IQ",
+            "ISO_3_CODE": "IRQ",
+            "PHONE_KEY": "964",
+            "NUM_CODE": "368"
+        },
+        {
+            "COUNTRY": "Ireland",
+            "NATIONALITY": "Irish",
+            "ISO_2 CODE": "IE",
+            "ISO_3_CODE": "IRL",
+            "PHONE_KEY": "353",
+            "NUM_CODE": "372"
+        },
+        {
+            "COUNTRY": "Isle of Man",
+            "NATIONALITY": "Manx",
+            "ISO_2 CODE": "IM",
+            "ISO_3_CODE": "IMN",
+            "PHONE_KEY": "44",
+            "NUM_CODE": "833"
+        },
+        {
+            "COUNTRY": "Israel",
+            "NATIONALITY": "Israeli",
+            "ISO_2 CODE": "IL",
+            "ISO_3_CODE": "ISR",
+            "PHONE_KEY": "972",
+            "NUM_CODE": "376"
+        },
+        {
+            "COUNTRY": "Italy",
+            "NATIONALITY": "Italian",
+            "ISO_2 CODE": "IT",
+            "ISO_3_CODE": "ITA",
+            "PHONE_KEY": "39",
+            "NUM_CODE": "380"
+        },
+        {
+            "COUNTRY": "Jamaica",
+            "NATIONALITY": "Jamaican",
+            "ISO_2 CODE": "JM",
+            "ISO_3_CODE": "JAM",
+            "PHONE_KEY": "1 876",
+            "NUM_CODE": "388"
+        },
+        {
+            "COUNTRY": "Japan",
+            "NATIONALITY": "Japanese",
+            "ISO_2 CODE": "JP",
+            "ISO_3_CODE": "JPN",
+            "PHONE_KEY": "81",
+            "NUM_CODE": "392"
+        },
+        {
+            "COUNTRY": "Jersey",
+            "NATIONALITY": "Channel Island",
+            "ISO_2 CODE": "JE",
+            "ISO_3_CODE": "JEY",
+            "PHONE_KEY": "44",
+            "NUM_CODE": "832"
+        },
+        {
+            "COUNTRY": "Jordan",
+            "NATIONALITY": "Jordanian",
+            "ISO_2 CODE": "JO",
+            "ISO_3_CODE": "JOR",
+            "PHONE_KEY": "962",
+            "NUM_CODE": "400"
+        },
+        {
+            "COUNTRY": "Kazakhstan",
+            "NATIONALITY": "Kazakhstani, Kazakh",
+            "ISO_2 CODE": "KZ",
+            "ISO_3_CODE": "KAZ",
+            "PHONE_KEY": "7",
+            "NUM_CODE": "398"
+        },
+        {
+            "COUNTRY": "Kenya",
+            "NATIONALITY": "Kenyan",
+            "ISO_2 CODE": "KE",
+            "ISO_3_CODE": "KEN",
+            "PHONE_KEY": "254",
+            "NUM_CODE": "404"
+        },
+        {
+            "COUNTRY": "Kiribati",
+            "NATIONALITY": "I-Kiribati",
+            "ISO_2 CODE": "KI",
+            "ISO_3_CODE": "KIR",
+            "PHONE_KEY": "686",
+            "NUM_CODE": "296"
+        },
+        {
+            "COUNTRY": "Korea (Democratic People's Republic of)",
+            "NATIONALITY": "North Korean",
+            "ISO_2 CODE": "KP",
+            "ISO_3_CODE": "PRK",
+            "PHONE_KEY": "850",
+            "NUM_CODE": "408"
+        },
+        {
+            "COUNTRY": "Korea (Republic of)",
+            "NATIONALITY": "South Korean",
+            "ISO_2 CODE": "KR",
+            "ISO_3_CODE": "KOR",
+            "PHONE_KEY": "82",
+            "NUM_CODE": "410"
+        },
+        {
+            "COUNTRY": "Kuwait",
+            "NATIONALITY": "Kuwaiti",
+            "ISO_2 CODE": "KW",
+            "ISO_3_CODE": "KWT",
+            "PHONE_KEY": "965",
+            "NUM_CODE": "414"
+        },
+        {
+            "COUNTRY": "Kyrgyzstan",
+            "NATIONALITY": "Kyrgyzstani, Kyrgyz, Kirgiz, Kirghiz",
+            "ISO_2 CODE": "KG",
+            "ISO_3_CODE": "KGZ",
+            "PHONE_KEY": "996",
+            "NUM_CODE": "417"
+        },
+        {
+            "COUNTRY": "Lao People's Democratic Republic",
+            "NATIONALITY": "Lao, Laotian",
+            "ISO_2 CODE": "LA",
+            "ISO_3_CODE": "LAO",
+            "PHONE_KEY": "856",
+            "NUM_CODE": "418"
+        },
+        {
+            "COUNTRY": "Latvia",
+            "NATIONALITY": "Latvian",
+            "ISO_2 CODE": "LV",
+            "ISO_3_CODE": "LVA",
+            "PHONE_KEY": "371",
+            "NUM_CODE": "428"
+        },
+        {
+            "COUNTRY": "Lebanon",
+            "NATIONALITY": "Lebanese",
+            "ISO_2 CODE": "LB",
+            "ISO_3_CODE": "LBN",
+            "PHONE_KEY": "961",
+            "NUM_CODE": "422"
+        },
+        {
+            "COUNTRY": "Lesotho",
+            "NATIONALITY": "Basotho",
+            "ISO_2 CODE": "LS",
+            "ISO_3_CODE": "LSO",
+            "PHONE_KEY": "266",
+            "NUM_CODE": "426"
+        },
+        {
+            "COUNTRY": "Liberia",
+            "NATIONALITY": "Liberian",
+            "ISO_2 CODE": "LR",
+            "ISO_3_CODE": "LBR",
+            "PHONE_KEY": "231",
+            "NUM_CODE": "430"
+        },
+        {
+            "COUNTRY": "Libya",
+            "NATIONALITY": "Libyan",
+            "ISO_2 CODE": "LY",
+            "ISO_3_CODE": "LBY",
+            "PHONE_KEY": "218",
+            "NUM_CODE": "434"
+        },
+        {
+            "COUNTRY": "Liechtenstein",
+            "NATIONALITY": "Liechtenstein",
+            "ISO_2 CODE": "LI",
+            "ISO_3_CODE": "LIE",
+            "PHONE_KEY": "423",
+            "NUM_CODE": "438"
+        },
+        {
+            "COUNTRY": "Lithuania",
+            "NATIONALITY": "Lithuanian",
+            "ISO_2 CODE": "LT",
+            "ISO_3_CODE": "LTU",
+            "PHONE_KEY": "370",
+            "NUM_CODE": "440"
+        },
+        {
+            "COUNTRY": "Luxembourg",
+            "NATIONALITY": "Luxembourg, Luxembourgish",
+            "ISO_2 CODE": "LU",
+            "ISO_3_CODE": "LUX",
+            "PHONE_KEY": "352",
+            "NUM_CODE": "442"
+        },
+        {
+            "COUNTRY": "Macao",
+            "NATIONALITY": "Macanese, Chinese",
+            "ISO_2 CODE": "MO",
+            "ISO_3_CODE": "MAC",
+            "PHONE_KEY": "853",
+            "NUM_CODE": "446"
+        },
+        {
+            "COUNTRY": "Macedonia (the former Yugoslav Republic of)",
+            "NATIONALITY": "Macedonian",
+            "ISO_2 CODE": "MK",
+            "ISO_3_CODE": "MKD",
+            "PHONE_KEY": "389",
+            "NUM_CODE": "807"
+        },
+        {
+            "COUNTRY": "Madagascar",
+            "NATIONALITY": "Malagasy",
+            "ISO_2 CODE": "MG",
+            "ISO_3_CODE": "MDG",
+            "PHONE_KEY": "261",
+            "NUM_CODE": "450"
+        },
+        {
+            "COUNTRY": "Malawi",
+            "NATIONALITY": "Malawian",
+            "ISO_2 CODE": "MW",
+            "ISO_3_CODE": "MWI",
+            "PHONE_KEY": "265",
+            "NUM_CODE": "454"
+        },
+        {
+            "COUNTRY": "Malaysia",
+            "NATIONALITY": "Malaysian",
+            "ISO_2 CODE": "MY",
+            "ISO_3_CODE": "MYS",
+            "PHONE_KEY": "60",
+            "NUM_CODE": "458"
+        },
+        {
+            "COUNTRY": "Maldives",
+            "NATIONALITY": "Maldivian",
+            "ISO_2 CODE": "MV",
+            "ISO_3_CODE": "MDV",
+            "PHONE_KEY": "960",
+            "NUM_CODE": "462"
+        },
+        {
+            "COUNTRY": "Mali",
+            "NATIONALITY": "Malian, Malinese",
+            "ISO_2 CODE": "ML",
+            "ISO_3_CODE": "MLI",
+            "PHONE_KEY": "223",
+            "NUM_CODE": "466"
+        },
+        {
+            "COUNTRY": "Malta",
+            "NATIONALITY": "Maltese",
+            "ISO_2 CODE": "MT",
+            "ISO_3_CODE": "MLT",
+            "PHONE_KEY": "356",
+            "NUM_CODE": "470"
+        },
+        {
+            "COUNTRY": "Marshall Islands",
+            "NATIONALITY": "Marshallese",
+            "ISO_2 CODE": "MH",
+            "ISO_3_CODE": "MHL",
+            "PHONE_KEY": "692",
+            "NUM_CODE": "584"
+        },
+        {
+            "COUNTRY": "Martinique",
+            "NATIONALITY": "Martiniquais, Martinican",
+            "ISO_2 CODE": "MQ",
+            "ISO_3_CODE": "MTQ",
+            "PHONE_KEY": "596",
+            "NUM_CODE": "474"
+        },
+        {
+            "COUNTRY": "Mauritania",
+            "NATIONALITY": "Mauritanian",
+            "ISO_2 CODE": "MR",
+            "ISO_3_CODE": "MRT",
+            "PHONE_KEY": "222",
+            "NUM_CODE": "478"
+        },
+        {
+            "COUNTRY": "Mauritius",
+            "NATIONALITY": "Mauritian",
+            "ISO_2 CODE": "MU",
+            "ISO_3_CODE": "MUS",
+            "PHONE_KEY": "230",
+            "NUM_CODE": "480"
+        },
+        {
+            "COUNTRY": "Mayotte",
+            "NATIONALITY": "Mahoran",
+            "ISO_2 CODE": "YT",
+            "ISO_3_CODE": "MYT",
+            "PHONE_KEY": "262",
+            "NUM_CODE": "175"
+        },
+        {
+            "COUNTRY": "Mexico",
+            "NATIONALITY": "Mexican",
+            "ISO_2 CODE": "MX",
+            "ISO_3_CODE": "MEX",
+            "PHONE_KEY": "52",
+            "NUM_CODE": "484"
+        },
+        {
+            "COUNTRY": "Micronesia (Federated States of)",
+            "NATIONALITY": "Micronesian",
+            "ISO_2 CODE": "FM",
+            "ISO_3_CODE": "FSM",
+            "PHONE_KEY": "691",
+            "NUM_CODE": "583"
+        },
+        {
+            "COUNTRY": "Moldova (Republic of)",
+            "NATIONALITY": "Moldovan",
+            "ISO_2 CODE": "MD",
+            "ISO_3_CODE": "MDA",
+            "PHONE_KEY": "373",
+            "NUM_CODE": "498"
+        },
+        {
+            "COUNTRY": "Monaco",
+            "NATIONALITY": "Monégasque, Monacan",
+            "ISO_2 CODE": "MC",
+            "ISO_3_CODE": "MCO",
+            "PHONE_KEY": "377",
+            "NUM_CODE": "492"
+        },
+        {
+            "COUNTRY": "Mongolia",
+            "NATIONALITY": "Mongolian",
+            "ISO_2 CODE": "MN",
+            "ISO_3_CODE": "MNG",
+            "PHONE_KEY": "976",
+            "NUM_CODE": "496"
+        },
+        {
+            "COUNTRY": "Montenegro",
+            "NATIONALITY": "Montenegrin",
+            "ISO_2 CODE": "ME",
+            "ISO_3_CODE": "MNE",
+            "PHONE_KEY": "382",
+            "NUM_CODE": "499"
+        },
+        {
+            "COUNTRY": "Montserrat",
+            "NATIONALITY": "Montserratian",
+            "ISO_2 CODE": "MS",
+            "ISO_3_CODE": "MSR",
+            "PHONE_KEY": "1 664",
+            "NUM_CODE": "500"
+        },
+        {
+            "COUNTRY": "Morocco",
+            "NATIONALITY": "Moroccan",
+            "ISO_2 CODE": "MA",
+            "ISO_3_CODE": "MAR",
+            "PHONE_KEY": "212",
+            "NUM_CODE": "504"
+        },
+        {
+            "COUNTRY": "Mozambique",
+            "NATIONALITY": "Mozambican",
+            "ISO_2 CODE": "MZ",
+            "ISO_3_CODE": "MOZ",
+            "PHONE_KEY": "258",
+            "NUM_CODE": "508"
+        },
+        {
+            "COUNTRY": "Myanmar",
+            "NATIONALITY": "Burmese",
+            "ISO_2 CODE": "MM",
+            "ISO_3_CODE": "MMR",
+            "PHONE_KEY": "95",
+            "NUM_CODE": "104"
+        },
+        {
+            "COUNTRY": "Namibia",
+            "NATIONALITY": "Namibian",
+            "ISO_2 CODE": "NA",
+            "ISO_3_CODE": "NAM",
+            "PHONE_KEY": "264",
+            "NUM_CODE": "516"
+        },
+        {
+            "COUNTRY": "Nauru",
+            "NATIONALITY": "Nauruan",
+            "ISO_2 CODE": "NR",
+            "ISO_3_CODE": "NRU",
+            "PHONE_KEY": "674",
+            "NUM_CODE": "520"
+        },
+        {
+            "COUNTRY": "Nepal",
+            "NATIONALITY": "Nepali, Nepalese",
+            "ISO_2 CODE": "NP",
+            "ISO_3_CODE": "NPL",
+            "PHONE_KEY": "977",
+            "NUM_CODE": "524"
+        },
+        {
+            "COUNTRY": "Netherlands",
+            "NATIONALITY": "Dutch, Netherlandic",
+            "ISO_2 CODE": "NL",
+            "ISO_3_CODE": "NLD",
+            "PHONE_KEY": "31",
+            "NUM_CODE": "528"
+        },
+        {
+            "COUNTRY": "New Caledonia",
+            "NATIONALITY": "New Caledonian",
+            "ISO_2 CODE": "NC",
+            "ISO_3_CODE": "NCL",
+            "PHONE_KEY": "687",
+            "NUM_CODE": "540"
+        },
+        {
+            "COUNTRY": "New Zealand",
+            "NATIONALITY": "New Zealand, NZ",
+            "ISO_2 CODE": "NZ",
+            "ISO_3_CODE": "NZL",
+            "PHONE_KEY": "64",
+            "NUM_CODE": "554"
+        },
+        {
+            "COUNTRY": "Nicaragua",
+            "NATIONALITY": "Nicaraguan",
+            "ISO_2 CODE": "NI",
+            "ISO_3_CODE": "NIC",
+            "PHONE_KEY": "505",
+            "NUM_CODE": "558"
+        },
+        {
+            "COUNTRY": "Niger",
+            "NATIONALITY": "Nigerien",
+            "ISO_2 CODE": "NE",
+            "ISO_3_CODE": "NER",
+            "PHONE_KEY": "227",
+            "NUM_CODE": "562"
+        },
+        {
+            "COUNTRY": "Nigeria",
+            "NATIONALITY": "Nigerian",
+            "ISO_2 CODE": "NG",
+            "ISO_3_CODE": "NGA",
+            "PHONE_KEY": "234",
+            "NUM_CODE": "566"
+        },
+        {
+            "COUNTRY": "Niue",
+            "NATIONALITY": "Niuean",
+            "ISO_2 CODE": "NU",
+            "ISO_3_CODE": "NIU",
+            "PHONE_KEY": "683",
+            "NUM_CODE": "570"
+        },
+        {
+            "COUNTRY": "Norfolk Island",
+            "NATIONALITY": "Norfolk Island",
+            "ISO_2 CODE": "NF",
+            "ISO_3_CODE": "NFK",
+            "PHONE_KEY": "6723",
+            "NUM_CODE": "574"
+        },
+        {
+            "COUNTRY": "Northern Mariana Islands",
+            "NATIONALITY": "Northern Marianan",
+            "ISO_2 CODE": "MP",
+            "ISO_3_CODE": "MNP",
+            "PHONE_KEY": "1 670",
+            "NUM_CODE": "580"
+        },
+        {
+            "COUNTRY": "Norway",
+            "NATIONALITY": "Norwegian",
+            "ISO_2 CODE": "NO",
+            "ISO_3_CODE": "NOR",
+            "PHONE_KEY": "47",
+            "NUM_CODE": "578"
+        },
+        {
+            "COUNTRY": "Oman",
+            "NATIONALITY": "Omani",
+            "ISO_2 CODE": "OM",
+            "ISO_3_CODE": "OMN",
+            "PHONE_KEY": "968",
+            "NUM_CODE": "512"
+        },
+        {
+            "COUNTRY": "Pakistan",
+            "NATIONALITY": "Pakistani",
+            "ISO_2 CODE": "PK",
+            "ISO_3_CODE": "PAK",
+            "PHONE_KEY": "92",
+            "NUM_CODE": "586"
+        },
+        {
+            "COUNTRY": "Palau",
+            "NATIONALITY": "Palauan",
+            "ISO_2 CODE": "PW",
+            "ISO_3_CODE": "PLW",
+            "PHONE_KEY": "680",
+            "NUM_CODE": "585"
+        },
+        {
+            "COUNTRY": "State of Palestine",
+            "NATIONALITY": "Palestinian",
+            "ISO_2 CODE": "PS",
+            "ISO_3_CODE": "PSE",
+            "PHONE_KEY": "970",
+            "NUM_CODE": "275"
+        },
+        {
+            "COUNTRY": "Panama",
+            "NATIONALITY": "Panamanian",
+            "ISO_2 CODE": "PA",
+            "ISO_3_CODE": "PAN",
+            "PHONE_KEY": "507",
+            "NUM_CODE": "591"
+        },
+        {
+            "COUNTRY": "Papua New Guinea",
+            "NATIONALITY": "Papua New Guinean, Papuan",
+            "ISO_2 CODE": "PG",
+            "ISO_3_CODE": "PNG",
+            "PHONE_KEY": "675",
+            "NUM_CODE": "598"
+        },
+        {
+            "COUNTRY": "Paraguay",
+            "NATIONALITY": "Paraguayan",
+            "ISO_2 CODE": "PY",
+            "ISO_3_CODE": "PRY",
+            "PHONE_KEY": "595",
+            "NUM_CODE": "600"
+        },
+        {
+            "COUNTRY": "Peru",
+            "NATIONALITY": "Peruvian",
+            "ISO_2 CODE": "PE",
+            "ISO_3_CODE": "PER",
+            "PHONE_KEY": "51",
+            "NUM_CODE": "604"
+        },
+        {
+            "COUNTRY": "Philippines",
+            "NATIONALITY": "Philippine, Filipino",
+            "ISO_2 CODE": "PH",
+            "ISO_3_CODE": "PHL",
+            "PHONE_KEY": "63",
+            "NUM_CODE": "608"
+        },
+        {
+            "COUNTRY": "Pitcairn",
+            "NATIONALITY": "Pitcairn Island",
+            "ISO_2 CODE": "PN",
+            "ISO_3_CODE": "PCN",
+            "PHONE_KEY": "64",
+            "NUM_CODE": "612"
+        },
+        {
+            "COUNTRY": "Poland",
+            "NATIONALITY": "Polish",
+            "ISO_2 CODE": "PL",
+            "ISO_3_CODE": "POL",
+            "PHONE_KEY": "48",
+            "NUM_CODE": "616"
+        },
+        {
+            "COUNTRY": "Portugal",
+            "NATIONALITY": "Portuguese",
+            "ISO_2 CODE": "PT",
+            "ISO_3_CODE": "PRT",
+            "PHONE_KEY": "351",
+            "NUM_CODE": "620"
+        },
+        {
+            "COUNTRY": "Puerto Rico",
+            "NATIONALITY": "Puerto Rican",
+            "ISO_2 CODE": "PR",
+            "ISO_3_CODE": "PRI",
+            "PHONE_KEY": "1 57/68",
+            "NUM_CODE": "630"
+        },
+        {
+            "COUNTRY": "Qatar",
+            "NATIONALITY": "Qatari",
+            "ISO_2 CODE": "QA",
+            "ISO_3_CODE": "QAT",
+            "PHONE_KEY": "974",
+            "NUM_CODE": "634"
+        },
+        {
+            "COUNTRY": "Réunion",
+            "NATIONALITY": "Réunionese, Réunionnais",
+            "ISO_2 CODE": "RE",
+            "ISO_3_CODE": "REU",
+            "PHONE_KEY": "262",
+            "NUM_CODE": "638"
+        },
+        {
+            "COUNTRY": "Romania",
+            "NATIONALITY": "Romanian",
+            "ISO_2 CODE": "RO",
+            "ISO_3_CODE": "ROU",
+            "PHONE_KEY": "40",
+            "NUM_CODE": "642"
+        },
+        {
+            "COUNTRY": "Russian Federation",
+            "NATIONALITY": "Russian",
+            "ISO_2 CODE": "RU",
+            "ISO_3_CODE": "RUS",
+            "PHONE_KEY": "7",
+            "NUM_CODE": "643"
+        },
+        {
+            "COUNTRY": "Rwanda",
+            "NATIONALITY": "Rwandan",
+            "ISO_2 CODE": "RW",
+            "ISO_3_CODE": "RWA",
+            "PHONE_KEY": "250",
+            "NUM_CODE": "646"
+        },
+        {
+            "COUNTRY": "Saint Barthélemy",
+            "NATIONALITY": "Barthélemois",
+            "ISO_2 CODE": "BL",
+            "ISO_3_CODE": "BLM",
+            "PHONE_KEY": "590",
+            "NUM_CODE": "652"
+        },
+        {
+            "COUNTRY": "Saint Helena, Ascension and Tristan da Cunha",
+            "NATIONALITY": "Saint Helenian",
+            "ISO_2 CODE": "SH",
+            "ISO_3_CODE": "SHN",
+            "PHONE_KEY": "290",
+            "NUM_CODE": "654"
+        },
+        {
+            "COUNTRY": "Saint Kitts and Nevis",
+            "NATIONALITY": "Kittitian or Nevisian",
+            "ISO_2 CODE": "KN",
+            "ISO_3_CODE": "KNA",
+            "PHONE_KEY": "1 869",
+            "NUM_CODE": "659"
+        },
+        {
+            "COUNTRY": "Saint Lucia",
+            "NATIONALITY": "Saint Lucian",
+            "ISO_2 CODE": "LC",
+            "ISO_3_CODE": "LCA",
+            "PHONE_KEY": "1 758",
+            "NUM_CODE": "662"
+        },
+        {
+            "COUNTRY": "Saint Martin (French part)",
+            "NATIONALITY": "Saint-Martinoise",
+            "ISO_2 CODE": "MF",
+            "ISO_3_CODE": "MAF",
+            "PHONE_KEY": "590",
+            "NUM_CODE": "663"
+        },
+        {
+            "COUNTRY": "Saint Pierre and Miquelon",
+            "NATIONALITY": "Saint-Pierrais or Miquelonnais",
+            "ISO_2 CODE": "PM",
+            "ISO_3_CODE": "SPM",
+            "PHONE_KEY": "508",
+            "NUM_CODE": "666"
+        },
+        {
+            "COUNTRY": "Saint Vincent and the Grenadines",
+            "NATIONALITY": "Saint Vincentian, Vincentian",
+            "ISO_2 CODE": "VC",
+            "ISO_3_CODE": "VCT",
+            "PHONE_KEY": "1 784",
+            "NUM_CODE": "670"
+        },
+        {
+            "COUNTRY": "Samoa",
+            "NATIONALITY": "Samoan",
+            "ISO_2 CODE": "WS",
+            "ISO_3_CODE": "WSM",
+            "PHONE_KEY": "685",
+            "NUM_CODE": "882"
+        },
+        {
+            "COUNTRY": "San Marino",
+            "NATIONALITY": "Sammarinese",
+            "ISO_2 CODE": "SM",
+            "ISO_3_CODE": "SMR",
+            "PHONE_KEY": "378",
+            "NUM_CODE": "674"
+        },
+        {
+            "COUNTRY": "Sao Tome and Principe",
+            "NATIONALITY": "São Toméan",
+            "ISO_2 CODE": "ST",
+            "ISO_3_CODE": "STP",
+            "PHONE_KEY": "239",
+            "NUM_CODE": "678"
+        },
+        {
+            "COUNTRY": "Saudi Arabia",
+            "NATIONALITY": "Saudi, Saudi Arabian",
+            "ISO_2 CODE": "SA",
+            "ISO_3_CODE": "SAU",
+            "PHONE_KEY": "966",
+            "NUM_CODE": "682"
+        },
+        {
+            "COUNTRY": "Senegal",
+            "NATIONALITY": "Senegalese",
+            "ISO_2 CODE": "SN",
+            "ISO_3_CODE": "SEN",
+            "PHONE_KEY": "221",
+            "NUM_CODE": "686"
+        },
+        {
+            "COUNTRY": "Serbia",
+            "NATIONALITY": "Serbian",
+            "ISO_2 CODE": "RS",
+            "ISO_3_CODE": "SRB",
+            "PHONE_KEY": "381",
+            "NUM_CODE": "688"
+        },
+        {
+            "COUNTRY": "Seychelles",
+            "NATIONALITY": "Seychellois",
+            "ISO_2 CODE": "SC",
+            "ISO_3_CODE": "SYC",
+            "PHONE_KEY": "248",
+            "NUM_CODE": "690"
+        },
+        {
+            "COUNTRY": "Sierra Leone",
+            "NATIONALITY": "Sierra Leonean",
+            "ISO_2 CODE": "SL",
+            "ISO_3_CODE": "SLE",
+            "PHONE_KEY": "232",
+            "NUM_CODE": "694"
+        },
+        {
+            "COUNTRY": "Singapore",
+            "NATIONALITY": "Singaporean",
+            "ISO_2 CODE": "SG",
+            "ISO_3_CODE": "SGP",
+            "PHONE_KEY": "65",
+            "NUM_CODE": "702"
+        },
+        {
+            "COUNTRY": "Sint Maarten (Dutch part)",
+            "NATIONALITY": "Sint Maarten",
+            "ISO_2 CODE": "SX",
+            "ISO_3_CODE": "SXM",
+            "PHONE_KEY": "1 721",
+            "NUM_CODE": "534"
+        },
+        {
+            "COUNTRY": "Slovakia",
+            "NATIONALITY": "Slovak",
+            "ISO_2 CODE": "SK",
+            "ISO_3_CODE": "SVK",
+            "PHONE_KEY": "421",
+            "NUM_CODE": "703"
+        },
+        {
+            "COUNTRY": "Slovenia",
+            "NATIONALITY": "Slovenian, Slovene",
+            "ISO_2 CODE": "SI",
+            "ISO_3_CODE": "SVN",
+            "PHONE_KEY": "386",
+            "NUM_CODE": "705"
+        },
+        {
+            "COUNTRY": "Solomon Islands",
+            "NATIONALITY": "Solomon Island",
+            "ISO_2 CODE": "SB",
+            "ISO_3_CODE": "SLB",
+            "PHONE_KEY": "677",
+            "NUM_CODE": "90"
+        },
+        {
+            "COUNTRY": "Somalia",
+            "NATIONALITY": "Somali, Somalian",
+            "ISO_2 CODE": "SO",
+            "ISO_3_CODE": "SOM",
+            "PHONE_KEY": "252",
+            "NUM_CODE": "706"
+        },
+        {
+            "COUNTRY": "South Africa",
+            "NATIONALITY": "South African",
+            "ISO_2 CODE": "ZA",
+            "ISO_3_CODE": "ZAF",
+            "PHONE_KEY": "27",
+            "NUM_CODE": "710"
+        },
+        {
+            "COUNTRY": "South Georgia and the South Sandwich Islands",
+            "NATIONALITY": "South Georgia or South Sandwich Islands",
+            "ISO_2 CODE": "GS",
+            "ISO_3_CODE": "SGS",
+            "PHONE_KEY": "500",
+            "NUM_CODE": "239"
+        },
+        {
+            "COUNTRY": "South Sudan",
+            "NATIONALITY": "South Sudanese",
+            "ISO_2 CODE": "SS",
+            "ISO_3_CODE": "SSD",
+            "PHONE_KEY": "211",
+            "NUM_CODE": "728"
+        },
+        {
+            "COUNTRY": "Spain",
+            "NATIONALITY": "Spanish",
+            "ISO_2 CODE": "ES",
+            "ISO_3_CODE": "ESP",
+            "PHONE_KEY": "34",
+            "NUM_CODE": "724"
+        },
+        {
+            "COUNTRY": "Sri Lanka",
+            "NATIONALITY": "Sri Lankan",
+            "ISO_2 CODE": "LK",
+            "ISO_3_CODE": "LKA",
+            "PHONE_KEY": "94",
+            "NUM_CODE": "144"
+        },
+        {
+            "COUNTRY": "Sudan",
+            "NATIONALITY": "Sudanese",
+            "ISO_2 CODE": "SD",
+            "ISO_3_CODE": "SDN",
+            "PHONE_KEY": "249",
+            "NUM_CODE": "729"
+        },
+        {
+            "COUNTRY": "Suriname",
+            "NATIONALITY": "Surinamese",
+            "ISO_2 CODE": "SR",
+            "ISO_3_CODE": "SUR",
+            "PHONE_KEY": "597",
+            "NUM_CODE": "740"
+        },
+        {
+            "COUNTRY": "Svalbard and Jan Mayen",
+            "NATIONALITY": "Svalbard",
+            "ISO_2 CODE": "SJ",
+            "ISO_3_CODE": "SJM",
+            "PHONE_KEY": "47",
+            "NUM_CODE": "744"
+        },
+        {
+            "COUNTRY": "Swaziland",
+            "NATIONALITY": "Swazi",
+            "ISO_2 CODE": "SZ",
+            "ISO_3_CODE": "SWZ",
+            "PHONE_KEY": "268",
+            "NUM_CODE": "748"
+        },
+        {
+            "COUNTRY": "Sweden",
+            "NATIONALITY": "Swedish",
+            "ISO_2 CODE": "SE",
+            "ISO_3_CODE": "SWE",
+            "PHONE_KEY": "46",
+            "NUM_CODE": "752"
+        },
+        {
+            "COUNTRY": "Switzerland",
+            "NATIONALITY": "Swiss",
+            "ISO_2 CODE": "CH",
+            "ISO_3_CODE": "CHE",
+            "PHONE_KEY": "41",
+            "NUM_CODE": "756"
+        },
+        {
+            "COUNTRY": "Syrian Arab Republic",
+            "NATIONALITY": "Syrian",
+            "ISO_2 CODE": "SY",
+            "ISO_3_CODE": "SYR",
+            "PHONE_KEY": "963",
+            "NUM_CODE": "760"
+        },
+        {
+            "COUNTRY": "Taiwan, Province of China",
+            "NATIONALITY": "Chinese, Taiwanese",
+            "ISO_2 CODE": "TW",
+            "ISO_3_CODE": "TWN",
+            "PHONE_KEY": "886",
+            "NUM_CODE": "158"
+        },
+        {
+            "COUNTRY": "Tajikistan",
+            "NATIONALITY": "Tajikistani",
+            "ISO_2 CODE": "TJ",
+            "ISO_3_CODE": "TJK",
+            "PHONE_KEY": "992",
+            "NUM_CODE": "762"
+        },
+        {
+            "COUNTRY": "Tanzania, United Republic of",
+            "NATIONALITY": "Tanzanian",
+            "ISO_2 CODE": "TZ",
+            "ISO_3_CODE": "TZA",
+            "PHONE_KEY": "255",
+            "NUM_CODE": "834"
+        },
+        {
+            "COUNTRY": "Thailand",
+            "NATIONALITY": "Thai",
+            "ISO_2 CODE": "TH",
+            "ISO_3_CODE": "THA",
+            "PHONE_KEY": "66",
+            "NUM_CODE": "764"
+        },
+        {
+            "COUNTRY": "Timor-Leste",
+            "NATIONALITY": "Timorese",
+            "ISO_2 CODE": "TL",
+            "ISO_3_CODE": "TLS",
+            "PHONE_KEY": "670",
+            "NUM_CODE": "626"
+        },
+        {
+            "COUNTRY": "Togo",
+            "NATIONALITY": "Togolese",
+            "ISO_2 CODE": "TG",
+            "ISO_3_CODE": "TGO",
+            "PHONE_KEY": "228",
+            "NUM_CODE": "768"
+        },
+        {
+            "COUNTRY": "Tokelau",
+            "NATIONALITY": "Tokelauan",
+            "ISO_2 CODE": "TK",
+            "ISO_3_CODE": "TKL",
+            "PHONE_KEY": "690",
+            "NUM_CODE": "772"
+        },
+        {
+            "COUNTRY": "Tonga",
+            "NATIONALITY": "Tongan",
+            "ISO_2 CODE": "TO",
+            "ISO_3_CODE": "TON",
+            "PHONE_KEY": "676",
+            "NUM_CODE": "776"
+        },
+        {
+            "COUNTRY": "Trinidad and Tobago",
+            "NATIONALITY": "Trinidadian or Tobagonian",
+            "ISO_2 CODE": "TT",
+            "ISO_3_CODE": "TTO",
+            "PHONE_KEY": "1 868",
+            "NUM_CODE": "780"
+        },
+        {
+            "COUNTRY": "Tunisia",
+            "NATIONALITY": "Tunisian",
+            "ISO_2 CODE": "TN",
+            "ISO_3_CODE": "TUN",
+            "PHONE_KEY": "216",
+            "NUM_CODE": "788"
+        },
+        {
+            "COUNTRY": "Turkey",
+            "NATIONALITY": "Turkish",
+            "ISO_2 CODE": "TR",
+            "ISO_3_CODE": "TUR",
+            "PHONE_KEY": "90",
+            "NUM_CODE": "792"
+        },
+        {
+            "COUNTRY": "Turkmenistan",
+            "NATIONALITY": "Turkmen",
+            "ISO_2 CODE": "TM",
+            "ISO_3_CODE": "TKM",
+            "PHONE_KEY": "993",
+            "NUM_CODE": "795"
+        },
+        {
+            "COUNTRY": "Turks and Caicos Islands",
+            "NATIONALITY": "Turks and Caicos Island",
+            "ISO_2 CODE": "TC",
+            "ISO_3_CODE": "TCA",
+            "PHONE_KEY": "1 649",
+            "NUM_CODE": "796"
+        },
+        {
+            "COUNTRY": "Tuvalu",
+            "NATIONALITY": "Tuvaluan",
+            "ISO_2 CODE": "TV",
+            "ISO_3_CODE": "TUV",
+            "PHONE_KEY": "688",
+            "NUM_CODE": "798"
+        },
+        {
+            "COUNTRY": "Uganda",
+            "NATIONALITY": "Ugandan",
+            "ISO_2 CODE": "UG",
+            "ISO_3_CODE": "UGA",
+            "PHONE_KEY": "256",
+            "NUM_CODE": "800"
+        },
+        {
+            "COUNTRY": "Ukraine",
+            "NATIONALITY": "Ukrainian",
+            "ISO_2 CODE": "UA",
+            "ISO_3_CODE": "UKR",
+            "PHONE_KEY": "380",
+            "NUM_CODE": "804"
+        },
+        {
+            "COUNTRY": "United Arab Emirates",
+            "NATIONALITY": "Emirati, Emirian, Emiri",
+            "ISO_2 CODE": "AE",
+            "ISO_3_CODE": "ARE",
+            "PHONE_KEY": "971",
+            "NUM_CODE": "784"
+        },
+        {
+            "COUNTRY": "United Kingdom of Great Britain and Northern Ireland",
+            "NATIONALITY": "British, UK",
+            "ISO_2 CODE": "GB",
+            "ISO_3_CODE": "GBR",
+            "PHONE_KEY": "44",
+            "NUM_CODE": "826"
+        },
+        {
+            "COUNTRY": "United States Minor Outlying Islands",
+            "NATIONALITY": "American",
+            "ISO_2 CODE": "UM",
+            "ISO_3_CODE": "UMI",
+            "PHONE_KEY": "1 808",
+            "NUM_CODE": "581"
+        },
+        {
+            "COUNTRY": "United States of America",
+            "NATIONALITY": "American",
+            "ISO_2 CODE": "US",
+            "ISO_3_CODE": "USA",
+            "PHONE_KEY": "1",
+            "NUM_CODE": "840"
+        },
+        {
+            "COUNTRY": "Uruguay",
+            "NATIONALITY": "Uruguayan",
+            "ISO_2 CODE": "UY",
+            "ISO_3_CODE": "URY",
+            "PHONE_KEY": "598",
+            "NUM_CODE": "858"
+        },
+        {
+            "COUNTRY": "Uzbekistan",
+            "NATIONALITY": "Uzbekistani, Uzbek",
+            "ISO_2 CODE": "UZ",
+            "ISO_3_CODE": "UZB",
+            "PHONE_KEY": "998",
+            "NUM_CODE": "860"
+        },
+        {
+            "COUNTRY": "Vanuatu",
+            "NATIONALITY": "Ni-Vanuatu, Vanuatuan",
+            "ISO_2 CODE": "VU",
+            "ISO_3_CODE": "VUT",
+            "PHONE_KEY": "678",
+            "NUM_CODE": "548"
+        },
+        {
+            "COUNTRY": "Venezuela (Bolivarian Republic of)",
+            "NATIONALITY": "Venezuelan",
+            "ISO_2 CODE": "VE",
+            "ISO_3_CODE": "VEN",
+            "PHONE_KEY": "58",
+            "NUM_CODE": "862"
+        },
+        {
+            "COUNTRY": "Vietnam",
+            "NATIONALITY": "Vietnamese",
+            "ISO_2 CODE": "VN",
+            "ISO_3_CODE": "VNM",
+            "PHONE_KEY": "84",
+            "NUM_CODE": "704"
+        },
+        {
+            "COUNTRY": "Virgin Islands (British)",
+            "NATIONALITY": "British Virgin Island",
+            "ISO_2 CODE": "VG",
+            "ISO_3_CODE": "VGB",
+            "PHONE_KEY": "1 284",
+            "NUM_CODE": "92"
+        },
+        {
+            "COUNTRY": "Virgin Islands (U.S.)",
+            "NATIONALITY": "U.S. Virgin Island",
+            "ISO_2 CODE": "VI",
+            "ISO_3_CODE": "VIR",
+            "PHONE_KEY": "1 340",
+            "NUM_CODE": "850"
+        },
+        {
+            "COUNTRY": "Wallis and Futuna",
+            "NATIONALITY": "Wallis and Futuna, Wallisian or Futunan",
+            "ISO_2 CODE": "WF",
+            "ISO_3_CODE": "WLF",
+            "PHONE_KEY": "681",
+            "NUM_CODE": "876"
+        },
+        {
+            "COUNTRY": "Western Sahara",
+            "NATIONALITY": "Sahrawi, Sahrawian, Sahraouian",
+            "ISO_2 CODE": "EH",
+            "ISO_3_CODE": "ESH",
+            "PHONE_KEY": "212 28",
+            "NUM_CODE": "732"
+        },
+        {
+            "COUNTRY": "Yemen",
+            "NATIONALITY": "Yemeni",
+            "ISO_2 CODE": "YE",
+            "ISO_3_CODE": "YEM",
+            "PHONE_KEY": "967",
+            "NUM_CODE": "887"
+        },
+        {
+            "COUNTRY": "Zambia",
+            "NATIONALITY": "Zambian",
+            "ISO_2 CODE": "ZM",
+            "ISO_3_CODE": "ZMB",
+            "PHONE_KEY": "260",
+            "NUM_CODE": "894"
+        },
+        {
+            "COUNTRY": "Zimbabwe",
+            "NATIONALITY": "Zimbabwean",
+            "ISO_2 CODE": "ZW",
+            "ISO_3_CODE": "ZWE",
+            "PHONE_KEY": "263",
+            "NUM_CODE": "716"
+        }
+    ]
+}
